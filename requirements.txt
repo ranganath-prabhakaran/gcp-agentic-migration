@@ -1,0 +1,11 @@
+# gcp-agentic-migration/requirements.txt
+pyautogen==0.6.1
+modelcontextprotocol==0.1.0
+google-cloud-secret-manager==2.16.2
+google-api-python-client==2.86.0
+google-auth-httplib2==0.1.0
+google-auth==2.22.0
+python-dotenv==1.0.0
+pymysql==1.1.0
+fastapi==0.104.1
+uvicorn==0.24.0
